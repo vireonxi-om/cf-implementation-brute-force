@@ -29,3 +29,4 @@ int main(){
     while(t--) solve();
     return 0;
 }
+// maintenance note (2): minor readability pass on this file — 2026-08-23
