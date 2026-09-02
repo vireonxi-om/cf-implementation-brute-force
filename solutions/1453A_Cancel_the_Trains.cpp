@@ -29,3 +29,4 @@ int main(){
     for(int i=0; i<t; i++) solve();
     return 0;
 }
+// maintenance note (6): note time complexity in this file — 2026-09-02
