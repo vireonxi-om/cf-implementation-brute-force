@@ -59,3 +59,4 @@ int main(){
     return 0;
 }
 // maintenance note (3): add editorial link comment to this file — 2026-08-26
+// maintenance note (7): note time complexity in this file — 2026-09-05
