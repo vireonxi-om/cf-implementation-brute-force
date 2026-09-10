@@ -66,3 +66,4 @@ int main(){
     while(t--) solve();
     return 0;
 }
+// maintenance note (9): add edge-case comment to this file — 2026-09-10
