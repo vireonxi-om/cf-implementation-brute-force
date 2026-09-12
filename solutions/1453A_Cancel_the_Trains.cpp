@@ -30,3 +30,4 @@ int main(){
     return 0;
 }
 // maintenance note (6): note time complexity in this file — 2026-09-02
+// maintenance note (10): add editorial link comment to this file — 2026-09-12
