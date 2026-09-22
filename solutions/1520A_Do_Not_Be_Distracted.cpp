@@ -31,3 +31,4 @@ int main(){
 }
 
 
+// maintenance note (14): add editorial link comment to this file — 2026-09-22
