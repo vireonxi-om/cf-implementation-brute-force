@@ -33,3 +33,4 @@ int main(){
 // maintenance note (10): add editorial link comment to this file — 2026-09-12
 // maintenance note (11): note time complexity in this file — 2026-09-15
 // maintenance note (12): minor readability pass on this file — 2026-09-17
+// maintenance note (15): minor readability pass on this file — 2026-09-25
