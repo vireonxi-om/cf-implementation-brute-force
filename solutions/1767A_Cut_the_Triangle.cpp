@@ -65,3 +65,4 @@ int main() {
 
 
 // maintenance note (1): note time complexity in this file — 2026-08-21
+// maintenance note (16): add editorial link comment to this file — 2026-09-27
