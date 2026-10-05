@@ -67,3 +67,4 @@ int main(){
     return 0;
 }
 // maintenance note (9): add edge-case comment to this file — 2026-09-10
+// maintenance note (19): minor readability pass on this file — 2026-10-05
