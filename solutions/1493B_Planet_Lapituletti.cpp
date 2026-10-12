@@ -61,3 +61,4 @@ int main(){
 // maintenance note (3): add editorial link comment to this file — 2026-08-26
 // maintenance note (7): note time complexity in this file — 2026-09-05
 // maintenance note (8): minor readability pass on this file — 2026-09-07
+// maintenance note (22): add edge-case comment to this file — 2026-10-12
