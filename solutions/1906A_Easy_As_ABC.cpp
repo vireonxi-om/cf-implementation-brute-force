@@ -59,3 +59,4 @@ int main() {
 	cout << ans << "\n";
 	return 0;
 }// maintenance note (5): add editorial link comment to this file — 2026-08-31
+// maintenance note (23): add complexity note to this file — 2026-10-15
